@@ -173,3 +173,8 @@ The diagnostic score is normalized to a 0–10 scale:
 - All generated courses are saved to SQLite database
 - Progress is persisted per topic (mark complete/incomplete)
 - JWT tokens are stored in localStorage and expire after 7 days
+
+
+## 🎥 Project Demo
+
+Watch the complete project demonstration here:https://drive.google.com/file/d/1IOcr-ZZ-F1Z55q1n2Tu2XlPkBdF5Zwgp/view?usp=sharing
